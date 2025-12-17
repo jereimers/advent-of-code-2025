@@ -1,0 +1,15 @@
+[
+  {
+    "domain": ".adventofcode.com",
+    "expirationDate": 1780863340.461734,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "session",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "53616c7465645f5fa6f0e36b849c12218c1cb4c8566f8f4d9bd662fc0946da3f63c5703989f55531aa029101b0d38c955ca7b4384ff6d9e93634d75af3387ef9"
+  }
+]
